@@ -4,4 +4,6 @@
     font-size: 1.125rem;
     line-height: 122%;
     color: #FFFFFF;
+    display: block;
+    /*border: 1px red solid;*/
 }
