@@ -1,7 +1,7 @@
 .cover{
     background-image: url(../../images/background.png);
-    opacity: 0.5;
-    background-color: aqua;
+    /*opacity: 0.5;*/
+    /*background-color: aqua;*/
     max-width: 1184px;
     margin: 0 auto 0 auto;
     object-fit:contain;

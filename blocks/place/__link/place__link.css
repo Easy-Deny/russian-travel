@@ -7,3 +7,8 @@
     display: block;
     /*border: 1px red solid;*/
 }
+.place__link:hover {
+    opacity: 0.5;
+  transition: opacity 0.5s ease-in-out;
+  -webkit-transition: opacity 0.5s ease-in-out;
+}
