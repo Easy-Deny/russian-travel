@@ -1,5 +1,5 @@
-.into__list{
+.into__list {
     margin: 0;
     padding: 33px 0 0 0;
-
+    list-style-type: none;
 }

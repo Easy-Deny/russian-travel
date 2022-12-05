@@ -20,4 +20,8 @@
 @import url(../blocks/into/__list-item/into__list-item.css);
 @import url(../blocks/into/__list-value/into__list-value.css);    
 
+@import url(../blocks/photo-grid/photo-grid.css);
+@import url(../blocks/photo-grid/__items/photo-grid__items.css);
+@import url(../blocks/photo-grid/__item/photo-grid__item.css);
+
 
