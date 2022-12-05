@@ -1,0 +1,7 @@
+.place{
+    border: 1px red solid;
+    display: grid;
+    grid-template-columns: repeat( auto-fit, 480px );
+    gap: 1rem 1rem;
+    
+}
