@@ -3,6 +3,6 @@
     margin: 0;
     padding-top: 5rem;
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(400px, 480px));
+    grid-template-columns: repeat(auto-fit, minmax(min-content, 480px));
     gap: 2.5rem 1rem;
 }

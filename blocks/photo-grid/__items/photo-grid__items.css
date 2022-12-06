@@ -2,10 +2,11 @@
     list-style-type: none;
     display: grid;
     grid-template-columns: repeat( auto-fit, minmax(284px, 1fr) );
+    grid-template-rows: ;
     gap: 1rem 1rem;
     max-width: 1184px;
     /*justify-content: space-between;*/
     margin: 0 auto 0 auto;
     padding: 0;
-
+    box-sizing: border-box;
 }

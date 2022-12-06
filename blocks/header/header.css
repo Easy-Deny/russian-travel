@@ -5,6 +5,7 @@
     /*border: 1px red solid;*/
     width: 92.5%;
     margin: 0 auto 0 auto;
-    position: relative;
+    /*position: relative;*/
+    max-width: 1184px;
 
 }
