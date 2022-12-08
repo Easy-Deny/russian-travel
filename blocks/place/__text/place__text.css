@@ -7,3 +7,9 @@
     margin: 0;
     
 }
+
+@media screen and (max-width: 425px) {
+    .place__text {
+       margin: 0 16 0 16;
+    }
+}
