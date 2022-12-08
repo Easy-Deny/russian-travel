@@ -1,8 +1,14 @@
-.into__text{
+.into__text {
     font-size: 1rem;
     line-height: 163%;
     font-weight: 400;
     margin: 0;
     padding-top: 2.5rem;
     max-width: 690px;
+}
+
+@media screen and (max-width: 768px) {
+    .into__text {
+        max-width: 100%;
+    }
 }

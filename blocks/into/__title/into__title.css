@@ -1,7 +1,16 @@
-.into__title{
+.into__title {
     font-size: 3.375rem;
     font-weight: 900;
-    line-height: 3.625rem;
+    line-height: 107%;
     text-align: left;
     margin: 0;
+}
+
+@media screen and (max-width: 425px) {
+    .into__title {
+        font-style: normal;
+        font-weight: 900;
+        font-size: 32px;
+        line-height: 109%;
+    }
 }

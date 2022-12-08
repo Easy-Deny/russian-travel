@@ -4,5 +4,30 @@
     padding-top: 5rem;
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(min-content, 480px));
-    gap: 2.5rem 1rem;
+    gap: 48px 16px;
 }
+
+/*@media screen and (max-width: 1280px) {
+    .place {
+        min-width: 284px;
+    }
+}
+
+@media screen and (max-width: 1024px) {
+    .place {
+        width: 300px;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .place {
+        width: 352px;
+
+    }
+}
+
+@media screen and (max-width: 425px) {
+    .place {
+        width: 100%;
+    }
+}*/
