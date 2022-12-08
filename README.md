@@ -18,5 +18,6 @@
 ## Ссылки
 Страница разработана при поддержке [Яндекс практикум](https://www.practicum.yandex.ru)
 Более подрабно о путешествиях можно прочитать в [Nationalgeographic](https://www.nationalgeographic.com)
+Ссылка на страницу в GitHubPages [Путешествие по России](https://easy-deny.github.io/russian-travel/)
 ------
 
