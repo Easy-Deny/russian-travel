@@ -1,11 +1,12 @@
 .photo-grid__item {
-    min-width: 22vw;
+    max-width: 22vw;
+
     
 }
 
 @media screen and (max-width: 1280px) {
     .photo-grid__item {
-        min-width: 284px;
+        width: 284px;
     }
 }
 
