@@ -36,6 +36,6 @@
     .place {
         padding-top: 50px;
         grid-template-columns: repeat(auto-fit, minmax(min-content, 100vw));
-        gap: 48px 16px;
+        gap: 32px;
     }
 }

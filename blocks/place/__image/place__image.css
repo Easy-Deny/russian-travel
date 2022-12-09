@@ -2,30 +2,32 @@
     /*border: 1px red solid;*/
     grid-row: 2/4;
     /*width: 35.937vw;*/
-    width: 35.937vw;
+    min-width: 35.937vw;
 
 }
 
 @media screen and (max-width: 1280px) {
     .place__image {
-        width: 460px;
+        min-width: 460px;
     }
 }
 
 @media screen and (max-width: 1024px) {
     .place__image {
-        width: 440px;
+        min-width: 440px;
     }
 }
 
 @media screen and (max-width: 768px) {
     .place__image {
-        width: 340px;
+        min-width: 340px;
     }
 }
 
 @media screen and (max-width: 425px) {
     .place__image {
-        width: 100%;
+        min-width: 100%;
+        max-width: 100%;
+        grid-row: 3/4;
     }
 }
