@@ -1,17 +1,18 @@
 .into{
-    padding: 92px 0 0 0;
-    width: 77%;
+    padding: 7.18vw 0 0 0;
+    width: 77vw;
     margin: 0 auto 0 auto;
     /*border: 1px red solid;*/
 }
 @media screen and (max-width: 1280px) {
     .into {
         max-width: 984px;
+        padding-top: 92px;
     }
 } 
 @media screen and (max-width: 1024px) {
     .into {
-        max-width: 928px;
+        width: 928px;
     }
 } 
 @media screen and (max-width: 768px) {
