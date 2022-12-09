@@ -1,25 +1,27 @@
 .lead {
-    width: 77%;
+    width: 77vw;
     display: flex;
     flex-direction: column;
-    margin: 56px auto 0 auto;
+    margin: 0 auto 0 auto;
+    padding-top: 4.37vw;
 }
 
 @media screen and (max-width: 1280px) {
     .lead {
         max-width: 984px;
+        padding-top: 56px;
     }
 }
 
 @media screen and (max-width: 1024px) {
     .lead {
-        max-width: 928px;
-        margin-top: 48px;
+        width: 928px;
+        padding-top: 48px;
     }
 }
 
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 768px) {
     .lead {
-        max-width: 100%;
+        width: 100%;
     }
 }
