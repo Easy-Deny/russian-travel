@@ -1,5 +1,6 @@
 .header{
     display: flex;
+    flex-wrap: wrap;
     justify-content: space-between;
     padding: 2.1vw 0 0 0;
     /*border: 1px red solid;*/
@@ -29,8 +30,8 @@
 } 
 @media screen and (max-width: 425px) {
     .header {
-        margin: 0 16px 0 16px;
+        margin: 0 auto 0 auto;
         padding-top: 16px;
-        width: 288px;
+        max-width: 288px;
     }
 } 

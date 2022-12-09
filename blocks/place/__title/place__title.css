@@ -1,7 +1,7 @@
 .place__title {
     font-style: normal;
     font-weight: 900;
-    font-size: 7.5vw;
+    font-size: 5.625vw;
     line-height: 106%;
     max-width: 460px;
     text-align: left;
@@ -29,5 +29,7 @@
     .place__title {
         font-size: 32px;
         line-height: 109%;
+        margin: 0 auto 0 auto;
+        width: 288px;
            }
 }

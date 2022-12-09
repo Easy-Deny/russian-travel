@@ -31,7 +31,7 @@
 } 
 @media screen and (max-width: 425px) {
     .photo-grid__items {
-        grid-template-columns: repeat( auto-fit, 288px);
+        grid-template-columns: repeat( auto-fit, 90vw);
         gap: 12px;
     }
 } 
