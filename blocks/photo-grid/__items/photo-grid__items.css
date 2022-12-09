@@ -1,8 +1,8 @@
 .photo-grid__items{
     list-style-type: none;
     display: grid;
-    grid-template-columns: repeat( auto-fit, 284px);
-    gap: 16px;
+    grid-template-columns: repeat( auto-fit, 22vw);
+    gap: 1.25vw;
     /*max-width: 100%;*/
     /*justify-content: space-between;*/
     margin: 0 auto 0 auto;
@@ -10,7 +10,12 @@
     box-sizing: border-box;
     
 }
-
+@media screen and (max-width: 1280px) {
+    .photo-grid__items {
+        grid-template-columns: repeat( auto-fit,284px);
+        gap: 16px;
+    }
+}
 @media screen and (max-width: 1024px) {
     .photo-grid__items {
         grid-template-columns: repeat( auto-fit, 300px);
