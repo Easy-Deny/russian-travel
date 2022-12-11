@@ -1,0 +1,33 @@
+.cover__link-box{
+    padding: 19vw 0 19vw 0;
+    position: relative;
+    z-index: 2;
+}
+
+@media screen and (max-width: 1280px) {
+    .cover__link-box {
+        
+        padding: 245px 0 245px 0;
+    }
+}
+
+@media screen and (max-width: 1024px) {
+    .cover__link-box {
+        
+        padding: 195px 0 195px 0;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .cover__link-box {
+       
+        padding: 115px 0 115px 0;
+    }
+}
+
+@media screen and (max-width: 425px) {
+    .cover__link-box {
+        
+        padding: 33px 0 33px 0;
+    }
+}
