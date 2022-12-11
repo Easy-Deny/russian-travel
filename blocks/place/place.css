@@ -17,7 +17,7 @@
 
 @media screen and (max-width: 1024px) {
     .place {
-        padding-top: 80px;
+        /*padding-top: 80px;*/ /*По заданию правила медиазапросов не должны содержать дублирований стилей. Обратите внимание на place*/
         grid-template-columns: 440px 453px;
         gap: 48px 32px;
     }

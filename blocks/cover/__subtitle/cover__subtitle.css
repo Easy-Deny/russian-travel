@@ -9,6 +9,8 @@
     padding-top: 2.5vw;
     position: relative;
     z-index: 3;
+    text-decoration: none;
+    color: white;
 }
 
 @media screen and (max-width: 1280px) {

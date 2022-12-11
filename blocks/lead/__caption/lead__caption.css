@@ -10,23 +10,23 @@
 
 @media screen and (max-width: 1280px) {
     .lead__caption {
-        padding-top: 8px;
+        padding-top: 8px;/*По заданию правила медиазапросов не должны содержать дублирований стилей. Обратите внимание на footer, lead__caption*/
         font-size: 10px;
     }
 }
 
 @media screen and (max-width: 768px) {
     .lead__caption {
-        padding-top: 8px;
+        /*padding-top: 8px;*/
         padding-left: 24px;
-        font-size: 10px;
+        /*font-size: 10px;*/
     }
 }
 
 @media screen and (max-width: 425px) {
     .lead__caption {
-        padding-top: 8px;
+        /*padding-top: 8px;*/
         padding-left: 16px;
-        font-size: 10px;
+       /* font-size: 10px;*/
     }
 }

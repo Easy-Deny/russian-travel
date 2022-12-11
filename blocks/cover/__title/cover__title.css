@@ -9,6 +9,8 @@
     /*padding-top: 245px;*/
     position: relative;
     z-index: 3;
+    text-decoration: none;
+    color: white;
 }
 @media screen and (max-width: 1280px) {
     .cover__title {
