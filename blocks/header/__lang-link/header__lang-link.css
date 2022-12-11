@@ -5,6 +5,8 @@
     font-style: normal;
     display: flex;
     align-self: flex-end;
+    text-decoration: none;
+    color: white;
 }
 .header__lang-link:first-of-type{
 text-decoration: underline;
