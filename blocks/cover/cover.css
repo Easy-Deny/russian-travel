@@ -1,10 +1,10 @@
-.cover{
+.cover {
     background:
-    linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),  url(../../images/background.png);
+        linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url(../../images/background.png);
     /*background-color: aqua;*/
     max-width: 92.5%;
     margin: 0 auto 0 auto;
-    object-fit:contain;
+    object-fit: contain;
     /*background: rgba(0,0,0,0.2);*/
     background-size: 100% 100%;
     position: relative;
@@ -15,11 +15,11 @@
     color: white;*/
 }
 
-.cover:hover{
+.cover:hover {
     background:
-    /*rgba(0, 0, 0, 0.8), url(../../images/background.png);*/
-    linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)),  url(../../images/background.png);
-    object-fit:contain;
+        /*rgba(0, 0, 0, 0.8), url(../../images/background.png);*/
+        linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url(../../images/background.png);
+    object-fit: contain;
     background-size: 100% 100%;
     background-repeat: no-repeat;
 }
@@ -29,23 +29,25 @@
         max-width: 1184px;
         padding: 245px 0 245px 0;
     }
-} 
+}
+
 @media screen and (max-width: 1024px) {
     .cover {
-    width: 100%;
-    padding: 195px 0 195px 0;
+        width: 100%;
+        padding: 195px 0 195px 0;
     }
-} 
+}
 
 @media screen and (max-width: 768px) {
     .cover {
         width: 100%;
         padding: 115px 0 115px 0;
     }
-} 
+}
+
 @media screen and (max-width: 425px) {
     .cover {
         width: 100%;
         padding: 33px 0 33px 0;
     }
-} 
+}
