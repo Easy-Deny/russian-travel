@@ -3,31 +3,31 @@
     margin: 0;
     padding-top: 6.25vw;
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(min-content, 37.5vw));
+    grid-template-columns: 35.937vw 37.812vw ;
     gap: 3.75vw 1.25vw;
 }
 
 @media screen and (max-width: 1280px) {
     .place {
         padding-top: 80px;
-        grid-template-columns: repeat(auto-fit, minmax(min-content, 480px));
-        gap: 48px 16px;
+        grid-template-columns: 460px 480px;
+        gap: 48px 40px;
     }
 }
 
 @media screen and (max-width: 1024px) {
     .place {
         padding-top: 80px;
-        grid-template-columns: repeat(auto-fit, minmax(min-content, 450px));
-        gap: 48px 16px;
+        grid-template-columns: 440px 453px;
+        gap: 48px 32px;
     }
 }
 
 @media screen and (max-width: 768px) {
     .place {
         padding-top: 72px;
-        grid-template-columns: repeat(auto-fit, minmax(min-content, 350px));
-        gap: 48px 16px;
+        grid-template-columns: 340px 352px;
+        gap: 48px 28px;
 
     }
 }
@@ -35,7 +35,7 @@
 @media screen and (max-width: 425px) {
     .place {
         padding-top: 50px;
-        grid-template-columns: repeat(auto-fit, minmax(min-content, 100vw));
+        grid-template-columns: 100vw;
         gap: 32px;
     }
 }
