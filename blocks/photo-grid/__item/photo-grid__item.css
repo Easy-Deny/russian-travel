@@ -1,15 +1,15 @@
-.photo-grid__item {
+/*.photo-grid__item {
     min-width: 22vw;
 
     
 }
 
-@media screen and (max-width: 1280px) {
+@media screen and (max-width: 1280px) {*/
     .photo-grid__item {
         min-width: 284px;
         
-    }
-}
+    }/*
+}*/
 
 @media screen and (max-width: 1024px) {
     .photo-grid__item {

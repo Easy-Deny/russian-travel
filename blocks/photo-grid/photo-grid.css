@@ -1,18 +1,18 @@
 .photo-grid {
     /*border: 1px red solid;*/
     margin: 0 auto 0 auto;
-    padding-top: 7.187vw;
-    max-width: 92.5vw;
+   /* padding-top: 7.187vw;
+    max-width: 92.5vw;*/
     box-sizing: border-box;
-
+/*
 }
 
 @media screen and (max-width: 1280px) {
-    .photo-grid {
+    .photo-grid {*/
         max-width: 1184px;
         padding-top: 92px;
-    }
-}
+    }/*
+}*/
 
 @media screen and (max-width: 1024px) {
     .photo-grid {

@@ -1,12 +1,12 @@
 .into__list-item {
     font-weight: 700;
-    font-size: 0.937vw;
+    /*font-size: 0.937vw;*/
     line-height: 150%;
     margin: 0;
-    display: flex;
+    display: flex;/*
 }
 @media screen and (max-width: 1280px) {
-    .into__list-item {
+    .into__list-item {*/
         font-size: 12px;
-    }
-} 
+    }/*
+} */

@@ -1,19 +1,19 @@
 .place{
    /* border: 1px red solid;*/
     margin: 0;
-    padding-top: 6.25vw;
+   /* padding-top: 6.25vw;*/
     display: grid;
-    grid-template-columns: 35.937vw 37.812vw;
+    /*grid-template-columns: 35.937vw 37.812vw;
     gap: 3.75vw 1.25vw;
 }
 
 @media screen and (max-width: 1280px) {
-    .place {
+    .place {*/
         padding-top: 80px;
         grid-template-columns: 460px 480px;
         gap: 48px 40px;
-    }
-}
+    }/*
+}*/
 
 @media screen and (max-width: 1024px) {
     .place {

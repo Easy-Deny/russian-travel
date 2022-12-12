@@ -1,18 +1,17 @@
 .places{
-   max-width: 77vw;
+   /*max-width: 77vw;*/
     margin: 0 auto 0 auto;
-    padding-top: 0,937vw;
+    /*padding-top: 0,937vw;
     padding-bottom: 7.187vw;
-   /* border: 1px red solid;*/
 }
 
 @media screen and (max-width: 1280px) {
-    .places {
+    .places {*/
         max-width: 984px;
         padding-top: 0.75rem;
         padding-bottom: 5.75rem;
-    }
-}
+    }/*
+}*/
 
 @media screen and (max-width: 1024px) {
     .places {

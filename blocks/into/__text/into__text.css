@@ -1,19 +1,19 @@
 .into__text {
-    font-size: 1.25vw;
+    /*font-size: 1.25vw;*/
     line-height: 163%;
     font-weight: 400;
     margin: 0;
-    padding-top: 3.125vw;
+   /* padding-top: 3.125vw;
     max-width: 53.9vw;
 }
 
 @media screen and (max-width: 1280px) {
-    .into__text {
+    .into__text {*/
         font-size: 16px;
         max-width: 690px;
         padding-top: 2.5rem;
-    }
-}
+    }/*
+}*/
 @media screen and (max-width: 768px) {
     .into__text {
         max-width: 100%;

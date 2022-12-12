@@ -1,14 +1,14 @@
 
-    .photo-grid__item-box {
+    /*.photo-grid__item-box {
         width: 22vw;
     }
     
-    @media screen and (max-width: 1280px) {
+    @media screen and (max-width: 1280px) {*/
         .photo-grid__item-box {
             width: 284px;
             height: 213px;
-        }
-    }
+        }/*
+    }*/
     
     @media screen and (max-width: 1024px) {
         .photo-grid__item-box {

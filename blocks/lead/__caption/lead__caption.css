@@ -1,19 +1,19 @@
 .lead__caption {
-    font-size: 0.781vw;
+    /*font-size: 0.781vw;*/
     line-height: 140%;
     font-weight: 400;
     letter-spacing: 1.5px;
     text-transform: uppercase;
     margin: 0;
-    padding-top: 0.625vw;
+    /*padding-top: 0.625vw;
 }
 
 @media screen and (max-width: 1280px) {
-    .lead__caption {
+    .lead__caption {*/
         padding-top: 8px;/*По заданию правила медиазапросов не должны содержать дублирований стилей. Обратите внимание на footer, lead__caption*/
         font-size: 10px;
-    }
-}
+    }/*
+}*/
 
 @media screen and (max-width: 768px) {
     .lead__caption {
