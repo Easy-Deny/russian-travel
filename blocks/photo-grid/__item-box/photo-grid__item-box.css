@@ -28,6 +28,7 @@
     @media screen and (max-width: 425px) {
         .photo-grid__item-box {
             width: 90vw;
+            height: 216px;
             
         }
     }
